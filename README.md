@@ -1,3 +1,3 @@
 # COSC117
-with Dr. Peter Wang at Salisbury University\n
+With Dr. Peter Wang at Salisbury University <br>
 Taken in Fall semester 2021
